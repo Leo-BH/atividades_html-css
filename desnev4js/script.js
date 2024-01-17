@@ -1,5 +1,8 @@
-const conect = document.querySelector('h1')
+function imprimir() {
 
-console.log("Conexão feita com sucesso")
-console.log("Conexão feita com sucesso")
-console.log("Conexão feita com sucesso")
+console.log("Conexão feita com sucesso");
+console.log("Conexão feita com sucesso");
+console.log("Conexão feita com sucesso");
+}
+
+imprimir();
