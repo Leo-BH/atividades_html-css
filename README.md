@@ -32,4 +32,8 @@ Desenvolvimento 4: (HTML)
 Com a página sobre o Marco Zero feita, é necessário de uma outra página e de um link que leve até ela. Na nova página, fale sobre dois outros pontos turísticos do Recife Antigo e siga os pré-requisitos a seguir: 
 
  1. crie um link que irá direcionar para essa nova página; 
- 2. adicione imagens sobre os lugares. 
+ 2. adicione imagens sobre os lugares.
+ --------------------------------------------------------------------------------------------------------------
+
+ Desenvolvimento 4 (JavaScript)
+ Crie um novo projeto com dois arquivos: index.html e script.js. No arquivo HTML, defina a estrutura padrão HTML, e inclua uma tag h1 com o título "Conexão com um arquivo JavaScript". No arquivo JavaScript defina uma função que imprima a mensagem "Conexão feita com sucesso!" no terminal, e execute ela três vezes. Finalmente, conecte ambos arquivos, abra seu projeto no navegador usando a extensão LiveServer e confira se a mensagem foi impressa três vezes no terminal.
